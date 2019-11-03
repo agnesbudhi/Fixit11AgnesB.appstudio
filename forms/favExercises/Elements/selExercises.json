@@ -25,7 +25,7 @@
   "iconTitle": "", 
   "id": "selExercises", 
   "inputmode": "", 
-  "items": "", 
+  "items": "pullups\npushups\nsitups\njogging\nplanks\ncurls", 
   "left": 32, 
   "mAll": "", 
   "mBottom": "", 
@@ -68,6 +68,6 @@
   "validation": "", 
   "value": "", 
   "valueCols": 10, 
-  "values": "101\n102\n103\n104", 
+  "values": "", 
   "width": 264
 }
